@@ -1,0 +1,15 @@
+1.) Yolcu kayıt kısmını groupbox kullanarak oluşturdum. İçerisine tc ad soyad numara nereden nereye ve cinsiyet seçme alanları ekledim ve bunları oluşturuken istenilen kriterlere uygun şekilde oluşturdum. forma arka plan resmlerini ekledim .Cinsiyet seçimi için erkek ve kadın resimleri ekledim . 2 tane hareketli otobüs iconu koydum.
+
+2.) Form yüklenince ekranın ortasında gelecek şekilde ayarladım ve formun tam ekran yapılmasını ve boyutunu değiştirilmesini engelledim.
+
+3.) Yolcu kayıt yaptırdığı zaman kayedet'e basınca bilgiler yan taraftaki listbox1'e alt alta olacak şekilde yazdırılıyor ve alt taraftaki listbox2 de "Seferiniz başarıyla oluşturuldu lütfen işlemi onaylayın" yazısı ile birlikte o anın tarihi ve saati yazıyor.
+
+4.) Seferi onayla butonuna basınca ise mesajboxa ta "işlem başarıyla gerçekleştirildi iyi günler " yazısı geliyor tamama basınca ise program yeniden başaltılıyor.
+
+5.) Yolcu kayıtta ki tc ve numara eksik yada boş girildiğinde, ad, soyad, şehir seçimi kısmı ve cinsiyet boş girildiğinde ve son olarak aynı anda iki cinsiyet girildiğinde program uyarı veriyor.Hata düzelmeyene kadar listbox1'e kayıt işlemi yapmıyor.
+
+6.) Temizle butonu ile tc,ad,soyad ve numaradaki girilen verileri siliyor. 
+
+7.) comboxa 81 ili ekledim ve dışarıda elle veri girilme özelliğini kapattım sadece benim eklediklerimi seçebiliyorsunuz.
+
+8.) Özelleştir adında groupbox ekledim bilete ekstradan özellik ekliyorsunuz ve bu eklediğiniz özelliğe göre bilet fiyatı artıyor
